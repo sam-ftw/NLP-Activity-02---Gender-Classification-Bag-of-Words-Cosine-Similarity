@@ -24,4 +24,3 @@ This Google Colab notebook explores basic Natural Language Processing (NLP) tech
 
 ## Learning Outcomes
 Understand basic feature extraction, text vectorization, Naive Bayes classification, and document similarity measurement.
-# NLP-Activity-02---Gender-Classification-Bag-of-Words-Cosine-Similarity
